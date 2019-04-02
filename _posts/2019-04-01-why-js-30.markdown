@@ -12,9 +12,11 @@ So, at the begining of this journey I was alone at home, and trying to learn stu
 
 So after the end of the bootcamp I was really into coding and coding everyday. And then the frustration came. Because when you are a 2-month-old baby-developer you dream big, but you know a small amount of stuff, and if you want to -let's say "ride a bike"- ... so if you want to ride a bike with your coding skills, you will probably fell down. And it's going to hurt. Because, remember, you are just a 2-month-old baby developer. And who-on-earth will put a 2-month-old baby on a bike? Nobody. So what you do with your baby developer skills to fight this impostor-syndrom thing which is taking your heart and making you stare at the big skills that job offers are claiming for and other people is doing in front you ? Bah, you code, you just keep coding.
 
+![Javascript](/assets/images/javascript.jpg){:class="img-responsive"}{:height="400px" width="300px"}
+
 {% for file in site.static_files %}
   {% if file.image %}
-    [image]: {{file.path}}
+
   {% endif %}
 {% endfor %}
 
