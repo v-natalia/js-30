@@ -25,7 +25,6 @@ github_username: v-natalia
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title/
 collections_dir: my_collections
 plugins:
   - jekyll-feed

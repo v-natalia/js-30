@@ -2,6 +2,7 @@
 layout: post
 title:  "Why I'm doing this?"
 date:   2019-04-01 13:20:39 +0200
+moment: 1st April
 categories: javascript-30
 permalink: posts/why-js-30
 bg: great.jpg
