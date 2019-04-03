@@ -10,19 +10,10 @@ bg: workcreate.jpg
 
 So, yes! Let's do this challenge. I was so enthusiastic that I embark a buddy to do the challenge at the same time !!
 
-<strong>Day 1.</strong>
-So, the first day I played with some classList javascript fun to make a drum that you could see here:
-
-{% for post in site.days limit: 30 %}
-  <article class="index-page">
-    <h2><a href="{{ days.url | relative_url }}">{{ days.name }}</a></h2>
-  </article>
+{% for post in site.days %}
+  <ul>
+    <li style="list-style-type: none">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.name }}</a></h3><p>{{ post.description }}</p>
+    </li>
+  </ul>
 {% endfor %}
-
-<strong>Day 2.</strong>
-Tic-Tac.
-A clock and I made the tic-tac feature !
-(<a href="/_days/_day2/index-START.html">Day 2</a>)
-
-
-    <h2><a href="{{ "../_days/_day1/index-START.html" | prepend: site.baseurl }}">Day 1</a></h2>
