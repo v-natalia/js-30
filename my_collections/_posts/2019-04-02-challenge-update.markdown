@@ -4,7 +4,7 @@ title:  "The Challenge"
 date:   2019-04-02 10:20:00 +0200
 moment: 2nd April
 categories: javascript-30
-permalink: posts/js-30-challenge
+permalink: /js-30/posts/js-30-challenge
 bg: workcreate.jpg
 ---
 
