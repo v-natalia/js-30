@@ -48,7 +48,7 @@ defaults:
 
 defaults:
   - scope:
-      path: 'assets/images'
+      path: '/assets/images'
     values:
       image: true
 
@@ -66,11 +66,11 @@ compress_html:
 
 
 sass:
-  sass_dir: assets/_sass
+  sass_dir: /assets/_sass
   style: compressed
 
 
-images: 'assets/images'
+images: '/assets/images'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
