@@ -8,7 +8,8 @@ permalink: /posts/js-30-challenge
 bg: workcreate.jpg
 ---
 
-So, yes! Let's do this challenge. I was so enthusiastic that I embark a buddy to do the challenge at the same time !!
+So, yes! Let's do this challenge. I will post here all the results of the challenge.
+All in the same place, because nobody wants 30 nerdy posts, and also, because, doing this I can prove that I know how to iterate when using jekyll. Lol.
 
 {% for post in site.days %}
   <ul>
