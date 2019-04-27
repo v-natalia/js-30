@@ -9,6 +9,7 @@ bg: diff.jpg
 ---
 
 Hi there !
+
 Here another short post while I'm TAing. Just 3 links to stuff that inspires me.
 
 #1 If you have kids, this TED talk could bring some enlightening to your parent life, and if you are not a parent, but you are a teacher or a friend of someone else... (<a href="https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve"> The power of believing that you can improve</a>)
