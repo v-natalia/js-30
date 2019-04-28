@@ -10,7 +10,7 @@ bg: rails.jpg
 
 Hi again !
 
-I'm applying to developer jobs at the moment and in this post I'm making a statement -a kind of bottle sent to the sea- because I hope that someday a recruiter will ask me one or two of these questions.
+I'm applying to developer jobs at the moment and in this post I'm making a statement -a kind of bottle sent to the sea- because I don't like the usual questions recruiters ask, so I hope that someday a recruiter will ask me one or two of these questions.
 
 #1 Are you a morning or an evening person ?
 
