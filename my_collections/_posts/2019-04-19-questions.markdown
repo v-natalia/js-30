@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Questions I would love recruiters ask me but they never do it..."
+title:  "5 Questions I would love recruiters ask me..."
 date:   2019-04-02 10:20:00 +0200
 moment: 21th April
 categories: job

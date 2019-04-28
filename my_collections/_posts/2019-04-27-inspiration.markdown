@@ -10,7 +10,7 @@ bg: diff.jpg
 
 Hi there !
 
-Here another short post while I'm TAing. Just 3 links to stuff that inspires me.
+Here another short post while I'm working as a TA, because I have no time to do my challenge :(. Just 3 links to stuff that inspires me.
 
 #1 <a href="https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve"> The power of believing that you can improve</a>
 
