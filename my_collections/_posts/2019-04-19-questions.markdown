@@ -18,7 +18,7 @@ I'm applying to developer jobs at the moment and in this post I'm making a state
 #2 How did you see yourself 5 years ago and how different you are now from that image ? (actually 2 questions in 1)
 
 
-#3 Why do you wanted to become a fullstack developer ?
+#3 Why did you want to become a fullstack developer ?
 
 
 #4 How do you prefer your coffee ?
