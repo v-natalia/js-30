@@ -10,6 +10,7 @@ bg: you got.jpg
 
 
 Python.
+
 Yes, now I'm learning Python, because I want to improve my atractiveness as a potential employee, and Python is sexy and everybody knows that.
 Even if many people says that the transition from my former language (Ruby) to Python it's smooth I've found some pitfalls that I will keep updating here as I found them:
 
