@@ -15,7 +15,7 @@ Yes, now I'm learning Python, because I want to improve my atractiveness as a po
 Even if many people says that the transition from my former language (Ruby) to Python it's smooth I've found some pitfalls that I will keep updating here as I found them:
 
 #1 Indentation is key.
-While in Ruby an indentation issue is just mess and could make you lose your time looking for the "end" that you forgot to write, in Python a mistake in the indentation is an error and your program will not run. So, indent or die.
+While in Ruby an indentation issue is just messy and it could make you lose your time looking for the "end" that you forgot to write, in Python a mistake in the indentation is an error and your program will not run. So, indent or die.
 
 #2 You are not allowed to interpolate strings and assign them to a variable.
 In Ruby you could write:
