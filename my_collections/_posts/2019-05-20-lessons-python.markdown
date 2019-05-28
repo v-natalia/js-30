@@ -26,5 +26,14 @@ But in Python, you will get a *funny* Error:
 
 `'str' object does not support item assignment.`
 
-What does that mean ? Strings are inmutable on Python so to do the same as you did in Ruby, you should write 5 lines of code to append every string to a List ( or array in Ruby `[]`) and then join the whole thing and put it in the variable you wanted. (That's one way of solution)
+What does that mean ? Strings are inmutable on Python so to do the same as you did in Ruby, you should write 5 lines of code to append every string to a List ( or array in Ruby `[]`) and then join the whole thing and put it in the variable you wanted. (That's one way of solution).
+
+#3 Dictionary keys have some restrictions.
+But first, a dictionary is like this:
+`dictionary = {key1: value1, key2: value2}`
+- So, in a dictionary a key can appear only once. If it appears a second time, then you will be reassigning it.
+- A dictionary key must be of an inmutable type, like... strings, also integers, floats or booleans are inmutables in Python. But lists, they are not inmutables, so you can not do something like this:
+`dictionary = {[key1, key2]: 'value1', [key3, key4]: 'value2'}`
+
+
 
