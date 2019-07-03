@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Lessons learnt when transition from Ruby to Python"
-date:   2019-05-20 09:22:08 +0200
-moment: 20th May
-categories: programming
-permalink: /posts/lessons-Py
-bg: you got.jpg
+title:  "Things I'm learn while freelancing"
+date:   2019-07-03 09:22:08 +0200
+moment: 3rd July
+categories: freelance
+permalink: /posts/things-freelance
+bg: upneverstop.jpg
 ---
+
