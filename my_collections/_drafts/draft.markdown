@@ -8,3 +8,5 @@ permalink: /posts/things-freelance
 bg: upneverstop.jpg
 ---
 
+Some things you should think before becoming a freelance !!!
+
