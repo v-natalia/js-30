@@ -13,4 +13,5 @@ Some things you should think before becoming a freelance !!!
 #2 Declare your earnings
 #3 Deadlines are not only your issue
 #4 Contrats and legal stuff
+#5 Remote or not remote
 
