@@ -15,3 +15,4 @@ Some links to things I would like to learn ... to not forget
 
 #2 <a href="https://www.udemy.com/react-redux/"> React - Redux course</a>
 
+now i'm learning react ....
